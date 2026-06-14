@@ -85,8 +85,8 @@ I specialize in engineering high-performance, low-latency architectures for dist
 
 | Project Category | Technology Focus | Deployment Scale |
 | :--- | :--- | :--- |
-| **Minecraft Ecosystems** | NMS (Net.Minecraft.Server), Packet Manipulation | 5,000+ Concurrent Users |
-| **Discord Bot API** | Gateway Intents, Sharding, Voice Transmissions | 1M+ Members Managed |
+| **Minecraft Ecosystems** | NMS (Net.Minecraft.Server), Packet Manipulation | 50+ Concurrent Users |
+| **Discord Bot API** | Gateway Intents, Sharding, Voice Transmissions | 1000+ Members Managed |
 | **Enterprise Web** | Next.js Server Actions, Micro-frontends | High Traffic B2B |
 | **Database Design** | Relational Indexing, Cache Invalidation | Terabyte-level Queries |
 
