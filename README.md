@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:2c3e50,100:000000&height=280&section=header&text=Divya%20Mishra&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:2c3e50,100:000000&height=280&section=header&text=Divya%20Prakash%20Mishra&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <h3>🚀 Lead Architect | High-Concurrency Ecosystems | Enterprise Solutions</h3>
 
