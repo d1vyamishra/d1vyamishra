@@ -129,5 +129,5 @@ I am currently open to consulting on high-stakes projects requiring significant 
   <br/>
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon-separator.gif" width="100%" />
   <br/>
-  <sup>Built with precision and high-concurrency mindset. &copy; 2024 d1vyamishra</sup>
+  <sup>Built with precision and high-concurrency mindset. &copy; 2026 d1vyamishra</sup>
 </div>
