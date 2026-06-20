@@ -100,7 +100,7 @@ I am currently open to consulting on high-stakes projects requiring significant 
   <a href="https://discord.gg/eZfzhj8tqu">
     <img src="https://img.shields.io/badge/-Discord_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/d1vyamishra">
+  <a href="https://linkedin.com/in/divyaprakashmishra">
     <img src="https://img.shields.io/badge/-Professional_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:d1vyamishra08@gmail.com">
