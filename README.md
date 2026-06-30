@@ -76,7 +76,7 @@ I specialize in engineering high-performance, low-latency architectures for dist
   
   <br/>
   
-  <img src="https://streak-stats.demolab.com/?user=d1vyamishra&theme=transparent&hide_border=true&stroke=7aa2f7&ring=7aa2f7&fire=e0afaf&currStreakLabel=ffffff" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=d1vyamishra&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=7aa2f7&fire=e0afaf&currStreakLabel=ffffff" alt="Contribution Streak" />
 </div>
 
 ---
